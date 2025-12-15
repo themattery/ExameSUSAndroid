@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723754810952",
+    "project_id": "examesus-a9c5a",
+    "storage_bucket": "examesus-a9c5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723754810952:android:e2873fa58b57702666227d",
+        "android_client_info": {
+          "package_name": "com.example.examesus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ7_8xkq0BT0tujKwOE4A-LuhLF69_gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
